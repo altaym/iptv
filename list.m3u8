@@ -186,7 +186,7 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="X",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="X",Tempo TV
+#EXTINF:-1 tvg-id="TEMPOTV.tr" group-title="X",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="X",Tivi 6
@@ -222,7 +222,7 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Movies",FilmBox
+#EXTINF:-1 tvg-id="FILMBOX.tr" group-title="Movies",FilmBox
 http://193.239.186.231/FILMBOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music",Dream Türk
