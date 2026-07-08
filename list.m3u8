@@ -214,7 +214,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV41.tr" tvg-logo="https://i.imgur.com/6T472LM.png" group-title="X",TV 41
-http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="X",TV Den
 http://canli.tvden.com.tr/hls/live.m3u8
