@@ -3,10 +3,10 @@
 
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-country="TR" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" tvg-country="TR" group-title="Ulusal",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-country="TR" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" group-title="Ulusal",ATV
