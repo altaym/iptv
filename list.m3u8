@@ -18,6 +18,15 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="EuroD.tr" group-title="Ulusal",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="Ulusal",Show TV
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Star TV
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="NowTV.tr" group-title="Ulusal",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
@@ -42,7 +51,7 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="AHABER.tr" group-title="News",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-#EXTINF:-1 tvg-id="BLOOMBERGHT.tr" group-title="News",Bloomberg HT
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="News",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
 #EXTINF:-1 tvg-id="DHA.tr" group-title="News",DHA
@@ -117,7 +126,7 @@ https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.tr" group-title="X",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 
-#EXTINF:-1 tvg-id="GZT.tr" group-title="X",GZT
+#EXTINF:-1 tvg-id="GZTTV.tr" group-title="X",GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IlkeTV.tr" group-title="X",Ilke TV
@@ -219,7 +228,7 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOX.tr" group-title="Movies",FilmBox
+#EXTINF:-1 tvg-id="FilmBox.tr" group-title="Movies",FilmBox
 http://193.239.186.231/FILMBOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music",Dream Türk
@@ -267,7 +276,7 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28AyWHe.png" group-title="Music",TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Music",TRT Müzik
+#EXTINF:-1 tvg-id="TRTMüzik.tr" group-title="Music",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="Travel",Play
@@ -282,7 +291,7 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="MinikaGO.tr" group-title="Kids",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-id="TRTÇocuk.tr" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk
