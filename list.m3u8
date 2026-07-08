@@ -24,7 +24,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="Ulusal",TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="360TV.tr" group-title="Ulusal",360 TV
+#EXTINF:-1 tvg-id="360.tr" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr" group-title="Ulusal",Halk TV
@@ -213,9 +213,6 @@ http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="X",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="X",Vav TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3qlEAp.png" group-title="X",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
@@ -282,7 +279,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Kids",Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go
+#EXTINF:-1 tvg-id="minikago.tr" group-title="Kids",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
