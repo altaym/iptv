@@ -33,9 +33,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
 https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" group-title="Ulusal",DMAX
@@ -248,32 +245,5 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 #EXTINF:-1 tvg-id="TRTMüzik.tr" group-title="Music",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV
-https://saran-live.ercdn.net/babytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Kids",Disney Jr.
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-
-#EXTINF:-1 tvg-id="MinikaGO.tr" group-title="Kids",Minika Go
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-
-#EXTINF:-1 tvg-id="TRTÇocuk.tr" group-title="Kids",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Sport",beIN Sports Haber
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sport",HTSpor TV
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Sport",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Sport",TRT Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 
