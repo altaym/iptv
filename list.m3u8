@@ -23,6 +23,30 @@ https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
+#EXTINF:-1 tvg-id="Tabii.tr" group-title="Eglence",Tabii
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 group-title="Eglence",Komedi TV
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SÖZCÜ TV (backup)
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+
+#EXTINF:-1,CGTN BELGESEL
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1,SAĞLIK CHANNEL
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+#EXTINF:-1,WOMAN KADIN TV
+https://embedlp.b-cdn.net/womantv.m3u8
+#EXTINF:-1,MOR TV
+https://live.euromediacenter.com/tvmor/index.m3u8
+#EXTINF:-1,ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A2 (backup)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1,TV8 BUÇUK (backup)
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
 #EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
