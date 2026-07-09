@@ -21,7 +21,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" group-title="Ulusal",Show TV
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Star TV
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8
+
 #EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
@@ -253,4 +254,5 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Sport",TRT Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
 
