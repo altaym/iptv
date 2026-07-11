@@ -111,20 +111,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="ALTASTV.tr" group-title="X",Altas TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARASTV.tr" group-title="X",ARAS TV
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DostTV.tr" group-title="X",Dost TV
-https://dost.stream.emsal.im/tv/live.m3u8
-
-#EXTINF:-1 tvg-id="EdessaTV.tr" group-title="X",Edessa TV
-https://canli.edessatv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="ESTV.tr" group-title="X",ES TV
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FortunaTV.tr" group-title="X",Fortuna TV
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX.tr" group-title="X",FX
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -141,20 +129,11 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalHayat.tr" group-title="X",Kanal Hayat
 https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 
-#EXTINF:-1 tvg-id="LalegulTV.tr" group-title="X",Lalegul TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-
 #EXTINF:-1 tvg-id="LineTV.tr" group-title="X",Line TV
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LuysTV.tr" group-title="X",Luys TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MeltemTV.tr" group-title="X",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="On4TV.tr" group-title="X",On4 TV
-https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OncuTV.tr" group-title="X",Öncü TV
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
@@ -201,9 +180,6 @@ http://193.239.186.231/FILMBOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Music",Med Muzik
-http://54.36.110.140/live3/live3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="Music",MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
@@ -239,9 +215,6 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Music",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28AyWHe.png" group-title="Music",TMB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
 #EXTINF:-1 tvg-id="TRTMüzik.tr" group-title="Music",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
